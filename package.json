@@ -1,0 +1,21 @@
+{
+  "name": "services",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/nesquikcode/services#readme",
+  "bugs": {
+    "url": "https://github.com/nesquikcode/services/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nesquikcode/services.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  }
+}
